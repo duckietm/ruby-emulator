@@ -8,7 +8,7 @@ So I decided to make this repository public so that no one else would spend thei
 
 > Do not buy anything else related to Ruby Hotel, or you will lose your money, as well as your time trying to resolve package issues! You won't get support, and any systems you purchase will probably have to be configured by a good programmer. Don't believe in a miracle system because it doesn't exist, this emulator is good but there are better ones out there.
 
-Credits for:
+## Credits for:
 
 - **Leon Hartley** creator of Comet Server.
 - **Dann for selling this stolen emulator to some people and not giving support, just installing the incomplete emulator and getting out!**
@@ -16,6 +16,10 @@ Credits for:
 - **Cen0n* for improving websockets and adding good things together.
 - **Juice** for contributing fixes and reporting bugs.
 - **Matuts** or **Matuvs**
+
+### Ruby developers:
+
 - **iNicollas**, **Djinn** for implementing most of the new features and fixes of this emulator.
-- **Paulo** for bringing the rebug soccer ball from an old emulator
+- **darkdev** for bringing the rebug soccer ball from an old emulator
+- **Snaiker** for developing some commands and fixes.
 
