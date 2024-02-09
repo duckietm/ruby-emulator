@@ -1,0 +1,10 @@
+{
+  "modules": [
+    {
+      "path": "modules/Comet-Game-Groups-2.1.2-TEST2.jar",
+      "alias": "Comet.Game.Groups",
+      "config": {
+      }
+    }
+  ]
+}
